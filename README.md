@@ -10,9 +10,9 @@
 
 ---  
 
-#### Getting started:
+### Getting started:
 
-##### These instructions will get you a copy of the project up and running on your local machine for development.
+#### These instructions will get you a copy of the project up and running on your local machine for development.
 
 1 - Clone the repository using `git clone`
 
@@ -27,12 +27,12 @@
 ### API:
     https://sunrise-sunset.org/api
 
-#### Built With:
+### Built With:
     ReactJS
     Typescript
     styled-components
 
 ---
 
-#### License:
+### License:
     This project is licensed under the MIT License - see the LICENSE.md file for details
