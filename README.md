@@ -16,7 +16,7 @@
 
 1 - Clone the repository using `git clone`
 
-2 - Navigate to the project root.
+2 - Navigate to the root of the project.
 
 3 - Run `yarn` to install all the dependencies present in package.json.
 
